@@ -13,7 +13,12 @@ func main(){
 	fmt.Println("---------->>Background saya<<---------------")
 	//fiturB
 	for j:=5; j>i;j--{
-		print("Green ")
+		if j==5 || j == 1{
+			print("Blue ")
+		} else {
+			print("Green ")
+		}
+		
 	}
 	
 }
