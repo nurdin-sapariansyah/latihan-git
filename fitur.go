@@ -7,6 +7,10 @@ import (
 
 func main(){
 	i := 0
-
 	fmt.Print(i)
+	fmt.Println("---------->>Identitas saya<<---------------")
+	//fiturA
+	fmt.Println("---------->>Background saya<<---------------")
+	//fiturB
+	
 }
