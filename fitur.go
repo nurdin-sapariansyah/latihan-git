@@ -17,13 +17,11 @@ func main(){
 	fmt.Println("umur saya adalah: ", age)
 	fmt.Println("---------->>Background saya<<---------------")
 	//fiturB
-	for j:=5; j>i;j--{
-		if j==5 || j == 1{
-			print("Blue ")
-		} else {
-			print("Green ")
-		}
-		
+	for i:=0; i<=5; i++{
+		for j:=0; j<i; j++{
+			print("a")
+		} 
+		println("b")
 	}
 	
 }
