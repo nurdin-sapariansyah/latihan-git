@@ -12,5 +12,8 @@ func main(){
 	//fiturA
 	fmt.Println("---------->>Background saya<<---------------")
 	//fiturB
+	for j:=5; j>i;j--{
+		print("Green ")
+	}
 	
 }
