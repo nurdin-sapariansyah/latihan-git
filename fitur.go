@@ -13,7 +13,8 @@ func main(){
 	name := "M. nurdin sapariansyah"
 	age := 17
 
-	fmt.Println(name, age)
+	fmt.Println("nama saya adalah: ", name)
+	fmt.Println("umur saya adalah: ", age)
 	fmt.Println("---------->>Background saya<<---------------")
 	//fiturB
 	
